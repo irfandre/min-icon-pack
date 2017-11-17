@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <scale factor="1.0" />
+
+    <!-- Browser
+	<item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="ic_message" />
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.MainMenuActivity}" drawable="ic_message" />
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="ic_message" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="ic_contact" />
+<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="ic_clock" />
+<item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="ic_message" />
+<item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="ic_camera" />
+-->
+
+<item component="ComponentInfo{com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity}" drawable="icon_smsorganizer_1" />
+<item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin}" drawable="icon_1"/>
+<item component="ComponentInfo{mobi.infolife.appbackup/mobi.infolife.appbackup.ui.screen.welcome.ActivityGuide6}" drawable="icon_appbackup_3"/>
+<item component="ComponentInfo{com.livae.apphunt.app/com.livae.apphunt.app.ui.activity.AppHuntActivity}" drawable="icon_apphunt_2"/>
+<item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" drawable="icon_appsales_2"/>
+<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="icon_audiofx_2"/>
+<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly}" drawable="icon_6"/>
+<item component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}" drawable="icon_busybox"/>
+<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="icon_calc"/>
+<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="icon_calender_1"/>
+<item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="ic_camera"/>
+<item component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver}" drawable="icon_cell_broadcasts_1"/>
+<item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="icon_chrome_5"/>
+<item component="ComponentInfo{com.android.chrome/com.android.chrome.Main}" drawable="icon_chrome_5"/>
+<item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="icon_chrome_5"/>
+<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="icon_clock_2"/>
+<item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.lockclock}" drawable="icon_14"/>
+<item component="ComponentInfo{com.loomatix.colorgrab/com.loomatix.colorgrab.SplashActivity}" drawable="icon_15"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="ic_contact"/>
+<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui}" drawable="icon_downloads_2"/>
+<item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="icon_drive_3"/>
+<item component="ComponentInfo{com.android.email/com.android.email}" drawable="icon_19"/>
+<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="icon_files"/>
+<item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="icon_flud"/>
+<item component="ComponentInfo{me.moreapps.iconpack.flyme/me.moreapps.iconshowcase.HomeActivity}" drawable="icon_22"/>
+<item component="ComponentInfo{com.tourbillon.freeappsnow/com.tourbillon.freeappsnow.MainActivity}" drawable="icon_23"/>
+<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="icon_gallery_1"/>
+<item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="icon_gboard_1"/>
+<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="icon_assistant"/>
+<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="icon_rewards_3"/>
+<item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="icon_play_1"/>
+<item component="ComponentInfo{com.google.android.gms/com.google.android.gms}" drawable="icon_29"/>
+<item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_store"/>
+<item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="icon_greenify_3"/>
+<item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="icon_inbox_1"/>
+<item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="icon_keep_1"/>
+<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="icon_34"/>
+<item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="icon_maps_1"/>
+<item component="ComponentInfo{com.treydev.mns/com.treydev.mns.MainActivity}" drawable="icon_36"/>
+<item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="icon_contacts_1"/>
+<item component="ComponentInfo{me.moreapps.iconpack.miui9/me.moreapps.iconshowcase.HomeActivity}" drawable="icon_38"/>
+<item component="ComponentInfo{com.romowtheme.mix/com.romowtheme.mix.activities.SplashActivity}" drawable="icon_39"/>
+<item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="icon_mixplorer_5"/>
+<item component="ComponentInfo{com.tassadar.multirommgr/com.tassadar.multirommgr.MainActivity}" drawable="icon_41"/>
+<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="icon_42"/>
+<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="icon_mxplayer"/>
+<item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="icon_44"/>
+<item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="icon_nova_prime_1"/>
+<item component="ComponentInfo{com.chikisoftworks.pagf/com.chikisoftworks.pagf.MainActivity}" drawable="icon_pagf_1"/>
+<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}" drawable="icon_47"/>
+<item component="ComponentInfo{com.smophix.phix/com.smophix.phix.activities.SplashActivity}" drawable="icon_48"/>
+<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon_49"/>
+<item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="icon_photos_2"/>
+<item component="ComponentInfo{com.thearclabs.polycon/com.afollestad.polar.ui.MainActivity}" drawable="icon_51"/>
+<item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="icon_pushbullet_1"/>
+<item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="icon_53"/>
+<item component="ComponentInfo{com.intangibleobject.securesettings.plugin/com.intangibleobject.securesettings.plugin.Activities.MainTabsActivity}" drawable="icon_54"/>
+<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="icon_55"/>
+<item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="icon_56"/>
+<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="icon_sim_toolkit"/>
+<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}" drawable="icon_smsbackup"/>
+<item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="icon_59"/>
+<item component="ComponentInfo{com.android.systemui/com.android.systemui}" drawable="icon_60"/>
+<item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="icon_61"/>
+<item component="ComponentInfo{com.android.terminal/com.android.terminal}" drawable="icon_terminal_1"/>
+<item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="icon_teslaunread_2"/>
+<item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="icon_64"/>
+<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="icon_65"/>
+<item component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="icon_66"/>
+<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="icon_whatsapp_1"/>
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="icon_xposed_installer_2"/>
+<item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon_69"/>
+<item component="ComponentInfo{org.zooper.zwpro/org.zooper.zwlib.Launcher}" drawable="icon_zooper_widget_pro_1"/>
+
+
+<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="icon_fdroid"/>
+<item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="icon_twrp"/>
+<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="icon_orbot"/>
+<item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="icon_titanium"/>
+<item component="ComponentInfo{com.tunnelbear.android/com.tunnelbear.android.TbearSplashActivity}" drawable="icon_tunnelbear"/>
+<item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="icon_walli"/>
+<item component="ComponentInfo{ma.wanam.youtubeadaway/ma.wanam.youtubeadaway}" drawable="icon_youtube_adaway"/>
+<item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="icon_authenticator"/>
+</resources>
