@@ -55,7 +55,7 @@
 <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="icon_contacts_1"/>
 <item component="ComponentInfo{me.moreapps.iconpack.miui9/me.moreapps.iconshowcase.HomeActivity}" drawable="icon_38"/>
 <item component="ComponentInfo{com.romowtheme.mix/com.romowtheme.mix.activities.SplashActivity}" drawable="icon_39"/>
-<item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="icon_mixplorer_5"/>
+<item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="icon_mixplorer_2"/>
 <item component="ComponentInfo{com.tassadar.multirommgr/com.tassadar.multirommgr.MainActivity}" drawable="icon_41"/>
 <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="icon_42"/>
 <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="icon_mxplayer"/>

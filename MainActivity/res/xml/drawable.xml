@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-  <item drawable="google_photos"/>
+
+   <category title="Whatsapp"/>
+  <item drawable="icon_whatsapp_1"/>
+  <item drawable="icon_whatsapp_2"/>
+  <item drawable="icon_whatsapp_3"/>
+  <item drawable="icon_whatsapp_4"/>
+  <item drawable="icon_whatsapp_5"/>
+   <category title="Chrome"/>
+  <item drawable="icon_chrome_1"/>
+  <item drawable="icon_chrome_2"/>
+  <item drawable="icon_chrome_3"/>
+  <item drawable="icon_chrome_4"/>
+  <item drawable="icon_chrome_5"/>
+    <category title="Gallery"/>
+  <item drawable="icon_gallery_1"/>
+  <item drawable="icon_gallery_2"/>
+  <item drawable="icon_gallery_3"/>
+  <item drawable="icon_gallery_4"/>
+    <category title="Mixplorer"/>
+  <item drawable="icon_mixplorer_1"/>
+  <item drawable="icon_mixplorer_2"/>
+  <item drawable="icon_mixplorer_3"/>
+  <item drawable="icon_mixplorer_4"/>
+  <item drawable="icon_mixplorer_5"/>
+     <category title="All"/>
+    <item drawable="google_photos"/>
   <item drawable="ic_calendar"/>
   <item drawable="ic_contact"/>
   <item drawable="icon_10"/>
@@ -73,7 +98,7 @@
   <item drawable="icon_70"/>
   <item drawable="icon_7"/>
   <item drawable="icon_8"/>
-  <item drawable="icon_9"/>
+  <item drawable="icon_9"/>   
   <item drawable="icon_appbackup"/>
   <item drawable="icon_appbackup_restore_1"/>
   <item drawable="icon_apphunt_1"/>
@@ -91,11 +116,7 @@
   <item drawable="icon_calender"/>
   <item drawable="icon_camera_1"/>
   <item drawable="icon_cell_broadcasts_1"/>
-  <item drawable="icon_chrome_1"/>
-  <item drawable="icon_chrome_2"/>
-  <item drawable="icon_chrome_3"/>
-  <item drawable="icon_chrome_4"/>
-  <item drawable="icon_chrome_5"/>
+ 
   <item drawable="icon_clock_1"/>
   <item drawable="icon_clock_2"/>
   <item drawable="icon_contacts_1"/>
@@ -109,10 +130,7 @@
   <item drawable="icon_flud_2"/>
   <item drawable="icon_flud_3"/>
   <item drawable="icon_flud"/>
-  <item drawable="icon_gallery_1"/>
-  <item drawable="icon_gallery_2"/>
-  <item drawable="icon_gallery_3"/>
-  <item drawable="icon_gallery_4"/>
+
   <item drawable="icon_google_1"/>
   <item drawable="icon_google_play_1"/>
   <item drawable="icon_google_play_2"/>
@@ -127,11 +145,7 @@
   <item drawable="icon_keep_1"/>
   <item drawable="icon_keep_2"/>
   <item drawable="icon_maps_1"/>
-  <item drawable="icon_mixplorer_1"/>
-  <item drawable="icon_mixplorer_2"/>
-  <item drawable="icon_mixplorer_3"/>
-  <item drawable="icon_mixplorer_4"/>
-  <item drawable="icon_mixplorer_5"/>
+
   <item drawable="icon_nova_prime_1"/>
   <item drawable="icon_pagf_1"/>
   <item drawable="icon_photos_1"/>
@@ -155,11 +169,7 @@
   <item drawable="icon_terminal_1"/>
   <item drawable="icon_twitter_1"/>
   <item drawable="icon_twitter_2"/>
-  <item drawable="icon_whatsapp_1"/>
-  <item drawable="icon_whatsapp_2"/>
-  <item drawable="icon_whatsapp_3"/>
-  <item drawable="icon_whatsapp_4"/>
-  <item drawable="icon_whatsapp_5"/>
+ 
   <item drawable="icon_x_plore_1"/>
   <item drawable="icon_x_plore_2"/>
   <item drawable="icon_xposed_installer_1"/>
