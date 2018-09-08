@@ -1,198 +1,283 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
-      <item>google_photos</item>
-      <item>ic_calendar</item>
-      <item>ic_contact</item>
-      <item>ic_camera</item>
-      <item>icon_10</item>
-      <item>icon_11</item>
-      <item>icon_12</item>
-      <item>icon_13</item>
-      <item>icon_14</item>
-      <item>icon_15</item>
-      <item>icon_16</item>
-      <item>icon_17</item>
-      <item>icon_18</item>
-      <item>icon_19</item>
-      <item>icon_1</item>
-      <item>icon_20</item>
-      <item>icon_21</item>
-      <item>icon_22</item>
-      <item>icon_23</item>
-      <item>icon_24</item>
-      <item>icon_25</item>
-      <item>icon_26</item>
-      <item>icon_27</item>
-      <item>icon_28</item>
-      <item>icon_29</item>
-      <item>icon_2</item>
-      <item>icon_30</item>
-      <item>icon_31</item>
-      <item>icon_32</item>
-      <item>icon_33</item>
-      <item>icon_34</item>
-      <item>icon_35</item>
-      <item>icon_36</item>
-      <item>icon_37</item>
-      <item>icon_38</item>
-      <item>icon_39</item>
-      <item>icon_3</item>
-      <item>icon_40</item>
-      <item>icon_41</item>
-      <item>icon_42</item>
-      <item>icon_43</item>
-      <item>icon_44</item>
-      <item>icon_45</item>
-      <item>icon_46</item>
-      <item>icon_47</item>
-      <item>icon_48</item>
-      <item>icon_49</item>
-      <item>icon_4</item>
-      <item>icon_50</item>
-      <item>icon_51</item>
-      <item>icon_52</item>
-      <item>icon_53</item>
-      <item>icon_54</item>
-      <item>icon_55</item>
-      <item>icon_56</item>
-      <item>icon_57</item>
-      <item>icon_58</item>
-      <item>icon_59</item>
-      <item>icon_5</item>
-      <item>icon_60</item>
-      <item>icon_61</item>
-      <item>icon_62</item>
-      <item>icon_63</item>
-      <item>icon_64</item>
-      <item>icon_65</item>
-      <item>icon_66</item>
-      <item>icon_67</item>
-      <item>icon_68</item>
-      <item>icon_69</item>
-      <item>icon_6</item>
-      <item>icon_70</item>
-      <item>icon_7</item>
-      <item>icon_8</item>
-      <item>icon_9</item>
-      <item>icon_appbackup</item>
-      <item>icon_appbackup_restore_1</item>
-      <item>icon_apphunt_1</item>
-      <item>icon_apphunt_2</item>
-      <item>icon_appsales_1</item>
-      <item>icon_appsales_2</item>
-      <item>icon_assistant</item>
-      <item>icon_audiofx_1</item>
-      <item>icon_authenticator_1</item>
-      <item>icon_browser_1</item>
-      <item>icon_browser_2</item>
-      <item>icon_browser_3</item>
-      <item>icon_calc</item>
-      <item>icon_calender_1</item>
-      <item>icon_calender</item>
-      <item>icon_camera_1</item>
-      <item>icon_cell_broadcasts_1</item>
-      <item>icon_chrome_1</item>
-      <item>icon_chrome_2</item>
-      <item>icon_chrome_3</item>
-      <item>icon_chrome_4</item>
-      <item>icon_chrome_5</item>
-      <item>icon_clock_1</item>
-      <item>icon_clock_2</item>
-      <item>icon_contacts_1</item>
-      <item>icon_docs_1</item>
-      <item>icon_downloads_1</item>
-      <item>icon_drive_1</item>
-      <item>icon_drive_2</item>
-      <item>icon_drive_3</item>
-      <item>icon_files_1</item>
-      <item>icon_files</item>
-      <item>icon_flud_2</item>
-      <item>icon_flud_3</item>
-      <item>icon_flud</item>
-      <item>icon_gallery_1</item>
-      <item>icon_gallery_2</item>
-      <item>icon_gallery_3</item>
-      <item>icon_gallery_4</item>
-      <item>icon_google_1</item>
-      <item>icon_google_play_1</item>
-      <item>icon_google_play_2</item>
-      <item>icon_google_play_3</item>
-      <item>icon_google_play</item>
-      <item>icon_greenify_1</item>
-      <item>icon_greenify_2</item>
-      <item>icon_greenify_3</item>
-      <item>icon_inbox_1</item>
-      <item>icon_inbox_2</item>
-      <item>icon_inbox_3</item>
-      <item>icon_keep_1</item>
-      <item>icon_keep_2</item>
-      <item>icon_maps_1</item>
-      <item>icon_mixplorer_1</item>
-      <item>icon_mixplorer_2</item>
-      <item>icon_mixplorer_3</item>
-      <item>icon_mixplorer_4</item>
-      <item>icon_mixplorer_5</item>
-      <item>icon_nova_prime_1</item>
-      <item>icon_pagf_1</item>
-      <item>icon_photos_1</item>
-      <item>icon_photos_2</item>
-      <item>icon_photos_3</item>
-      <item>icon_play_1</item>
-      <item>icon_play_2</item>
-      <item>icon_play</item>
-      <item>icon_pushbullet_1</item>
-      <item>icon_pushbullet_2</item>
-      <item>icon_pushbullet_3</item>
-      <item>icon_rewards_15</item>
-      <item>icon_rewards_1</item>
-      <item>icon_rewards</item>
-      <item>icon_sim_toolkit</item>
-      <item>icon_smsorganizer_1</item>
-      <item>icon_sniper</item>
-      <item>icon_substratum_2</item>
-      <item>icon_system_ui_1</item>
-      <item>icon_tasker_1</item>
-      <item>icon_terminal_1</item>
-      <item>icon_twitter_1</item>
-      <item>icon_twitter_2</item>
-      <item>icon_whatsapp_1</item>
-      <item>icon_whatsapp_2</item>
-      <item>icon_whatsapp_3</item>
-      <item>icon_whatsapp_4</item>
-      <item>icon_whatsapp_5</item>
-      <item>icon_x_plore_1</item>
-      <item>icon_x_plore_2</item>
-      <item>icon_xposed_installer_1</item>
-      <item>icon_xposed_installer_2</item>
-      <item>icon_youtube_1</item>
-      <item>icon_zooper_pro_1</item>
-      <item>icon_zooper_pro_2</item>
-      <item>icon_zooper_pro_3</item>
-      <item>ic_recorder</item>
-      <item>ic_setting</item>
-      <item>ic_store</item>
-      <item>icon_appbackup_3</item>
-      <item>icon_authenticator</item>
-      <item>icon_camera_2</item>
-      <item>icon_fdroid</item>
-      <item>icon_gboard_1</item>
-      <item>icon_inbox_4</item>
-      <item>icon_keep_3</item>
-      <item>icon_mxplayer</item>
-      <item>icon_orbot</item>
-      <item>icon_pushbullet_5</item>
-      <item>icon_rewards_3</item>
-      <item>icon_smsbackup</item>
-      <item>icon_teslaunread_2</item>
-      <item>icon_titanium</item>
-      <item>icon_truecaller_2</item>
-      <item>icon_tunnelbear</item>
-      <item>icon_twitter_3</item>
-      <item>icon_twrp</item>
-      <item>icon_walli</item>
-      <item>icon_youtube_2</item>
-      <item>icon_youtube_adaway</item>
-      <item>icon_zooper_widget_pro_1</item>
+    <item>google_photos</item>
+<item>ic_calendar</item>
+<item>ic_camera</item>
+<item>ic_contact</item>
+<item>icon_10</item>
+<item>icon_11</item>
+<item>icon_12</item>
+<item>icon_13</item>
+<item>icon_14</item>
+<item>icon_15</item>
+<item>icon_16</item>
+<item>icon_17</item>
+<item>icon_18</item>
+<item>icon_19</item>
+<item>icon_1</item>
+<item>icon_20</item>
+<item>icon_21</item>
+<item>icon_22</item>
+<item>icon_23</item>
+<item>icon_24</item>
+<item>icon_25</item>
+<item>icon_26</item>
+<item>icon_27</item>
+<item>icon_28</item>
+<item>icon_29</item>
+<item>icon_2</item>
+<item>icon_30</item>
+<item>icon_31</item>
+<item>icon_32</item>
+<item>icon_33</item>
+<item>icon_34</item>
+<item>icon_35</item>
+<item>icon_36</item>
+<item>icon_37</item>
+<item>icon_38</item>
+<item>icon_39</item>
+<item>icon_3</item>
+<item>icon_40</item>
+<item>icon_41</item>
+<item>icon_42</item>
+<item>icon_43</item>
+<item>icon_44</item>
+<item>icon_45</item>
+<item>icon_46</item>
+<item>icon_47</item>
+<item>icon_48</item>
+<item>icon_49</item>
+<item>icon_4</item>
+<item>icon_50</item>
+<item>icon_51</item>
+<item>icon_52</item>
+<item>icon_53</item>
+<item>icon_54</item>
+<item>icon_55</item>
+<item>icon_56</item>
+<item>icon_57</item>
+<item>icon_58</item>
+<item>icon_59</item>
+<item>icon_5</item>
+<item>icon_60</item>
+<item>icon_61</item>
+<item>icon_62</item>
+<item>icon_63</item>
+<item>icon_64</item>
+<item>icon_65</item>
+<item>icon_66</item>
+<item>icon_67</item>
+<item>icon_68</item>
+<item>icon_69</item>
+<item>icon_6</item>
+<item>icon_70</item>
+<item>icon_7</item>
+<item>icon_8</item>
+<item>icon_9</item>
+<item>icon_adaway</item>
+<item>icon_airteltv</item>
+<item>icon_appbackup_3</item>
+<item>icon_appbackup</item>
+<item>icon_appbackup_restore_1</item>
+<item>icon_apphunt_1</item>
+<item>icon_apphunt_2</item>
+<item>icon_appsales_1</item>
+<item>icon_appsales_2</item>
+<item>icon_appsales_3</item>
+<item>icon_appsales_4</item>
+<item>icon_appsales</item>
+<item>icon_assistant</item>
+<item>icon_audiofx_1</item>
+<item>icon_audiofx_2</item>
+<item>icon_authenticator_1</item>
+<item>icon_authenticator</item>
+<item>iconback</item>
+<item>icon_browser_1</item>
+<item>icon_browser_2</item>
+<item>icon_browser_3</item>
+<item>icon_browser</item>
+<item>icon_busybox</item>
+<item>icon_calc</item>
+<item>icon_calculator</item>
+<item>icon_calendar_1</item>
+<item>icon_calendar</item>
+<item>icon_calender_1</item>
+<item>icon_calender</item>
+<item>icon_camera_1</item>
+<item>icon_camera_2</item>
+<item>icon_cell_broadcasts_1</item>
+<item>icon_cellbroadcasts</item>
+<item>icon_chrome_1</item>
+<item>icon_chrome_2</item>
+<item>icon_chrome_3</item>
+<item>icon_chrome_4</item>
+<item>icon_chrome_5</item>
+<item>icon_chrome</item>
+<item>icon_clock_1</item>
+<item>icon_clock_2</item>
+<item>icon_contact</item>
+<item>icon_contacts_1</item>
+<item>icon_contacts</item>
+<item>icon_docs_1</item>
+<item>icon_downloads_1</item>
+<item>icon_downloads_2</item>
+<item>icon_drive_1</item>
+<item>icon_drive_2</item>
+<item>icon_drive_3</item>
+<item>icon_drive</item>
+<item>icon_email</item>
+<item>icon_fdroid1</item>
+<item>icon_fdroid</item>
+<item>icon_files_1</item>
+<item>icon_files</item>
+<item>icon_firefox</item>
+<item>icon_flightstats</item>
+<item>icon_flud_2</item>
+<item>icon_flud_3</item>
+<item>icon_flud</item>
+<item>icon_freeapps</item>
+<item>icon_gallery_1</item>
+<item>icon_gallery_2</item>
+<item>icon_gallery_3</item>
+<item>icon_gallery_4</item>
+<item>icon_gallery_6</item>
+<item>icon_gallery</item>
+<item>icon_gboard_1</item>
+<item>icon_gmail</item>
+<item>icon_google_1</item>
+<item>icon_google_2</item>
+<item>icon_google_play_1</item>
+<item>icon_google_play_2</item>
+<item>icon_google_play_3</item>
+<item>icon_google_play</item>
+<item>icon_googleplayservices</item>
+<item>icon_googleplaystore</item>
+<item>icon_google</item>
+<item>icon_greenify_1</item>
+<item>icon_greenify_2</item>
+<item>icon_greenify_3</item>
+<item>icon_greenify_4</item>
+<item>icon_greenify</item>
+<item>icon_inbox_1</item>
+<item>icon_inbox_2</item>
+<item>icon_inbox_3</item>
+<item>icon_inbox_4</item>
+<item>icon_inbox</item>
+<item>icon_join</item>
+<item>icon_keep_1</item>
+<item>icon_keep_2</item>
+<item>icon_keep_3</item>
+<item>icon_keep_4</item>
+<item>icon_keep</item>
+<item>icon_linkedin</item>
+<item>icon_maps_1</item>
+<item>icon_maps</item>
+<item>iconmask</item>
+<item>icon_messaging</item>
+<item>icon_mixplorer_1</item>
+<item>icon_mixplorer_2</item>
+<item>icon_mixplorer_3</item>
+<item>icon_mixplorer_4</item>
+<item>icon_mixplorer_5</item>
+<item>icon_mixplorer_6</item>
+<item>icon_mixplorer</item>
+<item>icon_music</item>
+<item>icon_mxplayer_1</item>
+<item>icon_mxplayer</item>
+<item>icon_myairtel_1</item>
+<item>icon_myairtel</item>
+<item>icon_novalauncher</item>
+<item>icon_novalauncherprime</item>
+<item>icon_nova_prime_1</item>
+<item>icon_orbot</item>
+<item>icon_pagf_1</item>
+<item>icon_paytm_1</item>
+<item>icon_paytm</item>
+<item>icon_photos_1</item>
+<item>icon_photos_2</item>
+<item>icon_photos_3</item>
+<item>icon_photos</item>
+<item>icon_play_1</item>
+<item>icon_play_2</item>
+<item>icon_play</item>
+<item>icon_polycon</item>
+<item>icon_purchased</item>
+<item>icon_pushbullet_1</item>
+<item>icon_pushbullet_2</item>
+<item>icon_pushbullet_3</item>
+<item>icon_pushbullet_5</item>
+<item>icon_recorder_1</item>
+<item>icon_recorder_2</item>
+<item>icon_recorder</item>
+<item>icon_rewards_15</item>
+<item>icon_rewards_1</item>
+<item>icon_rewards_3</item>
+<item>icon_rewards</item>
+<item>icon_settings_2</item>
+<item>icon_settings</item>
+<item>icon_simtoolkit_1</item>
+<item>icon_sim_toolkit</item>
+<item>icon_simtoolkit</item>
+<item>icon_skype_1</item>
+<item>icon_skype</item>
+<item>icon_smsbackup</item>
+<item>icon_smsorganizer_1</item>
+<item>icon_sniper</item>
+<item>icon_substratum_2</item>
+<item>icon_substratum</item>
+<item>icon_swiggy_1</item>
+<item>icon_swiggy</item>
+<item>icon_system_ui_1</item>
+<item>icon_tasker_1</item>
+<item>icon_tasker_2</item>
+<item>icon_tasker_3</item>
+<item>icon_terminal_1</item>
+<item>icon_teslaunread_2</item>
+<item>icon_teslaunread</item>
+<item>icon_titanium</item>
+<item>icon_truecaller_2</item>
+<item>icon_tunnelbear</item>
+<item>icon_turbovpn</item>
+<item>icon_twitter_1</item>
+<item>icon_twitter_2</item>
+<item>icon_twitter_3</item>
+<item>icon_twitter_4</item>
+<item>icon_twrp</item>
+<item>icon_uber_1</item>
+<item>icon_uber</item>
+<item>icon_uc_1</item>
+<item>icon_uc.</item>
+<item>icon_udemy</item>
+<item>iconupon</item>
+<item>icon_viper4androidfx_1</item>
+<item>icon_viper4androidfx</item>
+<item>icon_walli</item>
+<item>icon_whatsapp_1</item>
+<item>icon_whatsapp_2</item>
+<item>icon_whatsapp_3</item>
+<item>icon_whatsapp_4</item>
+<item>icon_whatsapp_5</item>
+<item>icon_whatsapp_6</item>
+<item>icon_whatsapp</item>
+<item>icon_x_plore_1</item>
+<item>icon_x_plore_2</item>
+<item>icon_xposed_installer_1</item>
+<item>icon_xposed_installer_2</item>
+<item>icon_youtube_1</item>
+<item>icon_youtube_2</item>
+<item>icon_youtube_3</item>
+<item>icon_youtube_4</item>
+<item>icon_youtube_adaway</item>
+<item>icon_youtube</item>
+<item>icon_zooper_pro_1</item>
+<item>icon_zooper_pro_2</item>
+<item>icon_zooper_pro_3</item>
+<item>icon_zooper_pro_4</item>
+<item>icon_zooper_widget_pro_1</item>
+<item>ic_recorder</item>
+<item>ic_setting</item>
+<item>ic_store</item>
+
 	</string-array>
 </resources>

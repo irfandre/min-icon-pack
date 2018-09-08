@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.eclipse.andmore.fixLegacyEditors=1
+org.eclipse.andmore.sdk=/home/irfan/android-sdks
+org.eclipse.andmore.xmlEditor=true

@@ -13,87 +13,309 @@
 <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="ic_camera" />
 -->
 
+
+<!-- camera activity -->
+<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="icon_camera"/>
+
+<!-- sms organiser -->
 <item component="ComponentInfo{com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity}" drawable="icon_smsorganizer_1" />
+
+<!-- input  -->
 <item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin}" drawable="icon_1"/>
+
+<!-- app backup  -->
 <item component="ComponentInfo{mobi.infolife.appbackup/mobi.infolife.appbackup.ui.screen.welcome.ActivityGuide6}" drawable="icon_appbackup_3"/>
+
+<!-- app hunt -->
 <item component="ComponentInfo{com.livae.apphunt.app/com.livae.apphunt.app.ui.activity.AppHuntActivity}" drawable="icon_apphunt_2"/>
-<item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" drawable="icon_appsales_2"/>
+
+<!-- app sales -->
+<item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" drawable="icon_appsales"/>
+
+<!-- audio fx -->
 <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="icon_audiofx_2"/>
-<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly}" drawable="icon_6"/>
+
+<!-- browser -->
+<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly}" drawable="icon_browser"/>
+
+<!-- busybox -->
 <item component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}" drawable="icon_busybox"/>
+
+<!-- calculator -->
 <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="icon_calc"/>
-<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="icon_calender_1"/>
+
+<!-- calender -->
+<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="icon_calender"/>
+
+<!-- camera -->
 <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="ic_camera"/>
+
+<!-- cell broadcast  -->
 <item component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver}" drawable="icon_cell_broadcasts_1"/>
+
+<!-- chrome beta -->
 <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="icon_chrome_5"/>
-<item component="ComponentInfo{com.android.chrome/com.android.chrome.Main}" drawable="icon_chrome_5"/>
-<item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="icon_chrome_5"/>
-<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="icon_clock_2"/>
+
+<!-- chrome
+<item component="ComponentInfo{com.android.chrome/com.android.chrome.Main}" drawable="icon_chrome"/>
+-->
+<!-- chrome
+<item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="icon_chrome"/>
+-->
+<!-- clock -->
+<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="icon_clock_1"/>
+
+<!-- lockclock -->
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.lockclock}" drawable="icon_14"/>
+
+<!-- colorgrab -->
 <item component="ComponentInfo{com.loomatix.colorgrab/com.loomatix.colorgrab.SplashActivity}" drawable="icon_15"/>
-<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="ic_contact"/>
+
+<!-- contacts -->
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="icon_contact"/>
+
+<!-- downloads -->
 <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui}" drawable="icon_downloads_2"/>
-<item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="icon_drive_3"/>
+
+<!-- google drive -->
+<item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="icon_drive"/>
+
+<!-- email -->
 <item component="ComponentInfo{com.android.email/com.android.email}" drawable="icon_19"/>
+
+<!-- files -->
 <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="icon_files"/>
-<item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="icon_flud"/>
+
+<!-- flud -->
+<item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="icon_flud_3"/>
+
+<!-- flyme icon pack -->
 <item component="ComponentInfo{me.moreapps.iconpack.flyme/me.moreapps.iconshowcase.HomeActivity}" drawable="icon_22"/>
-<item component="ComponentInfo{com.tourbillon.freeappsnow/com.tourbillon.freeappsnow.MainActivity}" drawable="icon_23"/>
-<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="icon_gallery_1"/>
+
+<!-- free apps now -->
+<item component="ComponentInfo{com.tourbillon.freeappsnow/com.tourbillon.freeappsnow.MainActivity}" drawable="icon_freeapps"/>
+
+<!-- gallery3d -->
+<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="icon_gallery"/>
+
+<!-- gboard -->
 <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="icon_gboard_1"/>
-<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="icon_assistant"/>
+
+
+<!-- google now -->
+<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="icon_google"/>
+
+
+<!-- google rewards -->
 <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="icon_rewards_3"/>
+
+<!-- play games -->
 <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="icon_play_1"/>
+
+<!-- google services -->
 <item component="ComponentInfo{com.google.android.gms/com.google.android.gms}" drawable="icon_29"/>
-<item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="ic_store"/>
-<item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="icon_greenify_3"/>
-<item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="icon_inbox_1"/>
-<item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="icon_keep_1"/>
+
+<!-- play store -->
+<item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="icon_google_play_1"/>
+
+<!-- greenify -->
+<item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="icon_greenify_4"/>
+
+<!-- inbox -->
+<item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="icon_inbox_3"/>
+
+<!-- keep -->
+<item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="icon_keep_2"/>
+
+<!-- magisk -->
 <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="icon_34"/>
+
+<!-- maps -->
 <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="icon_maps_1"/>
+
+<!-- material notification shade -->
 <item component="ComponentInfo{com.treydev.mns/com.treydev.mns.MainActivity}" drawable="icon_36"/>
+
+<!-- messaging -->
 <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="icon_contacts_1"/>
+
+<!-- miui9 icon pack -->
 <item component="ComponentInfo{me.moreapps.iconpack.miui9/me.moreapps.iconshowcase.HomeActivity}" drawable="icon_38"/>
+
+<!-- mix icon pack -->
 <item component="ComponentInfo{com.romowtheme.mix/com.romowtheme.mix.activities.SplashActivity}" drawable="icon_39"/>
+
+<!-- mixplorer -->
 <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="icon_mixplorer_2"/>
+
+<!-- multirom mgr -->
 <item component="ComponentInfo{com.tassadar.multirommgr/com.tassadar.multirommgr.MainActivity}" drawable="icon_41"/>
-<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="icon_42"/>
-<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="icon_mxplayer"/>
+
+<!-- lineageos music -->
+<item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="icon_42"/>
+
+<!-- mx videoplayer -->
+<!-- <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="icon_mxplayer"/> -->
+
+<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="icon_mxplayer"/>
+
+<!-- nova launcher -->
 <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="icon_44"/>
+
+<!-- nova launcher prime -->
 <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="icon_nova_prime_1"/>
+
+<!-- pagf -->
 <item component="ComponentInfo{com.chikisoftworks.pagf/com.chikisoftworks.pagf.MainActivity}" drawable="icon_pagf_1"/>
-<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}" drawable="icon_47"/>
+
+<!-- paytm -->
+<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}" drawable="icon_paytm_1"/>
+
+<!-- phix -->
 <item component="ComponentInfo{com.smophix.phix/com.smophix.phix.activities.SplashActivity}" drawable="icon_48"/>
+
+<!-- dialer -->
 <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="icon_49"/>
-<item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="icon_photos_2"/>
+
+<!-- google photos -->
+<item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="icon_photos_1"/>
+
+<!-- polycon -->
 <item component="ComponentInfo{com.thearclabs.polycon/com.afollestad.polar.ui.MainActivity}" drawable="icon_51"/>
+
+<!-- pushbullet -->
 <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="icon_pushbullet_1"/>
-<item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="icon_53"/>
+
+<!-- lineage recorder -->
+<item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="icon_recorder_2"/>
+
+<!-- secure settings -->
 <item component="ComponentInfo{com.intangibleobject.securesettings.plugin/com.intangibleobject.securesettings.plugin.Activities.MainTabsActivity}" drawable="icon_54"/>
-<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="icon_55"/>
+
+<!-- settings -->
+<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="icon_settings"/>
+
+<!-- lenovo anyshare -->
 <item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="icon_56"/>
-<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="icon_sim_toolkit"/>
-<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}" drawable="icon_smsbackup"/>
-<item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="icon_59"/>
+
+<!-- sim toolkit -->
+<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="icon_simtoolkit"/>
+
+<!-- sms backup + -->
+<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}" drawable="icon_58"/>
+
+<!-- substratum -->
+<item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="icon_substratum"/>
+
+<!-- system ui -->
 <item component="ComponentInfo{com.android.systemui/com.android.systemui}" drawable="icon_60"/>
-<item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="icon_61"/>
+
+<!-- tasker -->
+<item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="icon_tasker_2"/>
+
+<!-- terminal -->
 <item component="ComponentInfo{com.android.terminal/com.android.terminal}" drawable="icon_terminal_1"/>
+
+<!-- tesla notifier -->
 <item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="icon_teslaunread_2"/>
+
+<!-- truecaller -->
 <item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="icon_64"/>
-<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="icon_65"/>
-<item component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="icon_66"/>
+
+<!-- twitter -->
+<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="icon_twitter_4"/>
+
+<!-- viper -->
+<item component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="icon_viper4androidfx_1"/>
+
+<!-- whatsapp -->
 <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="icon_whatsapp_1"/>
+
+<!-- xposed -->
 <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="icon_xposed_installer_2"/>
+
+<!-- youtube -->
 <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon_69"/>
-<item component="ComponentInfo{org.zooper.zwpro/org.zooper.zwlib.Launcher}" drawable="icon_zooper_widget_pro_1"/>
 
+<!-- youtube vanced -->
+<item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="icon_gallery_6"/>
 
-<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="icon_fdroid"/>
+<!-- zooper -->
+<item component="ComponentInfo{org.zooper.zwpro/org.zooper.zwlib.Launcher}" drawable="icon_zooper_widget_pro_4"/>
+
+<!-- fdroid -->
+<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="icon_fdroid1"/>
+
+<!-- twrp -->
 <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="icon_twrp"/>
+
+<!-- orbot  -->
 <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="icon_orbot"/>
+
+<!-- titanium -->
 <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="icon_titanium"/>
+
+<!-- tunnelbear -->
 <item component="ComponentInfo{com.tunnelbear.android/com.tunnelbear.android.TbearSplashActivity}" drawable="icon_tunnelbear"/>
+
+<!-- walli -->
 <item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="icon_walli"/>
+
+<!-- youtube adaway -->
 <item component="ComponentInfo{ma.wanam.youtubeadaway/ma.wanam.youtubeadaway}" drawable="icon_youtube_adaway"/>
+
+<!-- authenticator -->
 <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="icon_authenticator"/>
+
+<!-- purchase -->
+<item component="ComponentInfo{com.azefsw.purchasedapps/com.azefsw.purchasedapps.ui.apps.MainActivity}" drawable="icon_purchased"/>
+
+<!-- firefox -->
+<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="icon_firefox"/>
+
+<!-- uc browser -->
+<item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="icon_uc"/>
+
+<!-- adaway -->
+<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="icon_adaway"/>
+
+<!-- airtel tv -->
+<item component="ComponentInfo{tv.accedo.airtel.wynk/tv.accedo.airtel.wynk.presentation.view.activity.SplashActivity}" drawable="icon_airteltv"/>
+
+<!-- flightstats -->
+<item component="ComponentInfo{com.conducivetech.android.traveler/com.conducivetech.android.traveler.app.flights.MainSearchActivity}" drawable="icon_flightstats"/>
+
+<!-- gmail -->
+<item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+drawable="icon_gmail"/>
+
+<!-- join -->
+<item component="ComponentInfo{com.joaomgcd.join/com.joaomgcd.join.activity.ActivityMain}" drawable="icon_join"/>
+
+<!-- minimalist -->
+<item component="ComponentInfo{com.jndapp.iconpack.minimalist/com.jndapp.iconpack.minimalist.activities.SplashActivity}" drawable="icon_36"/>
+
+<!-- airtel app -->
+<item component="ComponentInfo{com.myairtelapp/com.myairtelapp.activity.OnboardingActivity}" drawable="icon_myairtel_1"/>
+
+<!-- polycon -->
+<item component="ComponentInfo{com.thearclabs.polycon/com.afollestad.polar.ui.MainActivity}" drawable="icon_polycon"/>
+
+<!-- skype -->
+<item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="icon_skype"/>
+
+<!-- swiggy -->
+<item component="ComponentInfo{in.swiggy.android/in.swiggy.android.activities.HomeActivity}" drawable="icon_swiggy_1"/>
+
+<!-- turbovpn -->
+<item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity}" drawable="icon_turbovpn"/>
+
+<!-- uber -->
+<item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="icon_uber"/>
+
+<!-- udemy -->
+<item component="ComponentInfo{com.udemy.android/com.udemy.android.SplashActivity}" drawable="icon_udemy"/>
+
+<!-- linkedin -->
+<item component="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" drawable="icon_linkedin" />
 </resources>
